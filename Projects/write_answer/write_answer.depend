@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1327790340 source:c:\users\majibur rahman\codes\cpp_codes\projects\write_answer\main.cpp
+	<iostream>
+
+1327790615 source:c:\users\majibur rahman\codes\cpp_codes\projects\write_answer\io.cpp
+	<iostream>
+
